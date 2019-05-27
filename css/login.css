@@ -1,0 +1,43 @@
+#sayfa
+{
+  width: 1000px;
+  height: 800px;
+margin:auto;
+
+}
+
+#logo
+{
+  width: 280px;
+  height: 200px;
+  margin:auto;
+}
+
+#icerik
+{
+  width: 1000px;
+  height: 500px;
+  background-color: #33FFCC;
+  margin: 5px 0px;
+
+}
+#login
+{
+  width: 500px;
+  height: 250px;
+  background-color: #33FFCC;
+  margin:auto;
+}
+
+#taban
+{
+  width: 1000px;
+  height: 75px;
+  background-color: #006666;
+}
+#alt
+{
+  width: 1000px;
+  height:25px;
+  background-color:#000033;
+}
